@@ -37,27 +37,21 @@ const projects = [
   {
     title: "Prime flix",
     description: "Site de informações de filmes construído em React",
-    image: "/assets/Prime-flix.gif",
+    image: "/assets/Prime-flix.webm",
     href: "https://prime-flix-psi.vercel.app",
   },
   {
     title: "Gym",
     description: "Site comercial de Academia",
-    image: "/assets/gym.gif",
+    image: "/assets/gym.webm",
     href: "https://main--react-gym-site.netlify.app",
   },
   {
     title: "GV Mobilidade",
     description: "Landing page para GV Consultoria de Passos MG",
-    image: "/assets/gv.gif",
+    image: "/assets/gv.webm",
     href: "https://gvmobilidade.com.br",
-  },
-  {
-    title: "Cars",
-    description: "Site de venda de carros de luxo",
-    image: "/assets/cars.gif",
-    href: "https://vaconer.github.io/Cars/",
-  },
+  }
 ];
 
 const services = [
