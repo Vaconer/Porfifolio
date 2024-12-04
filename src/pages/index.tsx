@@ -245,9 +245,7 @@ export default function Home() {
             id={styles["canvas-container"]}
             className="mt-14 h-full w-full xl:mt-0"
           >
-            <Suspense fallback={<span>Carregando...</span>}>
-              <Spline scene="/assets/scene.splinecode" />
-            </Suspense>
+            <img src="../../assets/gif.gif"/>
           </div>
         </section>
         {/* About */}
