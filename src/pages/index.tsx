@@ -250,7 +250,6 @@ export default function Home() {
             </Suspense>
           </div>
         </section>
-
         {/* About */}
         <section id="about" data-scroll-section>
           <div
